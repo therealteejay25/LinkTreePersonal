@@ -51,7 +51,7 @@ export const Card = ({ title, src, p, link }: CardType) => {
             alt={title}
             height={40}
             width={40}
-            className="sm:h-10 sm:w-10 md:h-12 md:w-12"
+            className="sm:h-8 sm:w-8 md:h-10 md:w-10"
           />
           <div>
             <h1 className="text-base sm:text-base md:text-lg font-medium">{title}</h1>
