@@ -12,8 +12,8 @@ export default function Home() {
   }, []);
 
   const cards = [
-    { src: "wa.svg", title: "WhatsApp", p: "Quick replies • Projects • Collabs", link: "https://wa.me/2348086789876" },
-    { src: "x.svg", title: "X", p: "Hot takes • Late night commits • Building in public", link: "https://x.com/therealteejay25" },
+    { src: "wa.svg", title: "WhatsApp", p: "Quick replies • Projects • Collabs", link: "https://wa.me/2349064472995" },
+    { src: "x.svg", title: "X", p: "Hot takes • Late night commits • Building in public", link: "https://x.com/Tayo_Builds" },
     { src: "logo.svg", title: "Portfolio", p: "Case studies • Polished pixels • Design concepts", link: "https://tayo01.vercel.app" },
     { src: "insta.svg", title: "Instagram", p: "Design Drops • Visuals • BTS", link: "https://instagram.com/therealteejay25" },
     { src: "github.svg", title: "Github", p: "Real repos • Experiments • Shipping code in public", link: "https://github.com/therealteejay25" },
